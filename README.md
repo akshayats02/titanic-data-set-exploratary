@@ -1,3 +1,4 @@
+Titanic Dataset Exploratory Data Analysis (EDA)
 🔍 Objective:
 The goal of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to extract insights, identify patterns, trends, and potential anomalies using visual and statistical methods.
 
